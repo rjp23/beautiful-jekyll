@@ -1,12 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Publications
+subtitle: Dr Robert Parker
 ---
-
-# Dr Robert Parker
-
-# Publications
 
 ## 2018
 * Parker, R. J., Boesch, H., McNorton, J., Comyn-Platt, E., Gloor, M., Wilson, C., . . . Bloom, A. A. (2018). Evaluating year-to-year anomalies in tropical wetland methane emissions using satellite CH4 observations. REMOTE SENSING OF ENVIRONMENT, 211, 261-275. doi:10.1016/j.rse.2018.02.011
