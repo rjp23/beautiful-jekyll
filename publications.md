@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Publications
-subtitle: Dr Robert Parker
+title: Dr Robert Parker
+subtitle: Publications
 ---
 
 ## 2018
