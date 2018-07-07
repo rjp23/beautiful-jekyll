@@ -1,3 +1,9 @@
+---
+layout: page
+title: Publications
+subtitle: My Publication List
+---
+
 #Dr Robert Parker
 
 #Publications
